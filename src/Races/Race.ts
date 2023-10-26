@@ -1,12 +1,12 @@
 abstract class Race {
-  constructor(private nam : string, private dexterit : number) {}
+  constructor(private _name : string, private _dexterity : number) {}
 
   get name(): string {
-    return this.nam;
+    return this._name;
   }
 
   get dexterity(): number {
-    return this.dexterit;
+    return this._dexterity;
   }
 
   static createdRacesInstances(): number {

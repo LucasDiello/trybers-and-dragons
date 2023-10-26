@@ -5,10 +5,10 @@ class Halfling extends Race {
   static _instanceCount = 0;
 
   constructor(
-    nam: string,
-    dexterit: number,
+    _name: string,
+    _dexterity: number,
   ) {
-    super(nam, dexterit);
+    super(_name, _dexterity);
     Halfling.incrementRacesInstances();
   }
 
