@@ -6,6 +6,7 @@ Projeto com objetivo de criar uma estrutura de jogo no estilo RPG, aplicando os 
 ## Objetivos Principais:
 1. Aplicar e praticar os conceitos de SOLID.
 2. Aplicar e praticar os conceitos de POO.
+   
 ## Desenvolvimento:
 O projeto incluiu a criação de classes, atributos e métodos, a implementação de interfaces e tipos, além da aplicação de conceitos fundamentais da POO, como abstração, encapsulamento, herança, composição e polimorfismo. A busca pela aderência aos princípios SOLID também foi uma prioridade.
 
