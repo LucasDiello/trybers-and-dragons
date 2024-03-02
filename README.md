@@ -3,6 +3,7 @@
 ## Sobre:
 Projeto com objetivo de criar uma estrutura de jogo no estilo RPG, aplicando os princípios da Programação Orientada a Objeto (POO) e os conceitos da arquitetura SOLID, utilizando TypeScript.
 
+
 ## Objetivos Principais:
 1. Aplicar e praticar os conceitos de SOLID.
 2. Aplicar e praticar os conceitos de POO.
